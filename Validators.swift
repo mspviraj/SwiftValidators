@@ -8,7 +8,7 @@
 
 import UIKit
 
-
+//Verifies if the sequence is a valid Israeli ID
 func isValidID(_ id:String)-> Bool{
     
     var digit:Int
